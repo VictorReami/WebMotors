@@ -1,5 +1,5 @@
 # WebMotors
-Projeto em JAVA, onde é feito uma cópia do site Web Mortos.
+Projeto em JAVA, Spring Boot e MySql, onde é feito uma cópia do site Web Mortos.
 
 
 #Java
